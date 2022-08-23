@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.exe
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.deps.json
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.runtimeconfig.json
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.dll
+C:\Users\Aydan\Desktop\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.pdb
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.dll
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.pdb
+C:\Users\Aydan\Desktop\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.genruntimeconfig.cache
